@@ -1,0 +1,52 @@
+{
+    "cursos" : [
+        {
+          "id": 1,
+          "title" : "Vue desde cero",
+          "image" : "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-10/Vue-JS.png",
+          "price" : 26,
+          "professor": "Josh Ospina Tafur",
+          "professor_image" : "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-10/josh.png"
+        },
+        {
+          "id":2,
+          "title" : "Programación reactiva con RxJS",
+          "image" : "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-10/RxJs.png",
+          "price" : 20,
+          "professor": "Jorge Cano",
+          "professor_image" : "https://avatars3.githubusercontent.com/u/5982204?v=4"
+        },
+        {
+          "id":3,
+          "title" : "Angular Material",
+          "image" : "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-08/angular-material.png",
+          "price" : 16,
+          "professor": "Luis Aviles",
+          "professor_image" : "https://drupal.ed.team/sites/default/files/styles/perfil_en_views_200x200_/public/pictures/2017-10/luis-aviles.jpg?itok=haXRY95-"
+        },
+        {
+            "id":4,
+            "title" : "Angular Desde Cero",
+            "image" : "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-08/angular.png",
+            "price" : 40,
+            "professor": "Luis Aviles",
+            "professor_image" : "https://drupal.ed.team/sites/default/files/styles/perfil_en_views_200x200_/public/pictures/2017-10/luis-aviles.jpg?itok=haXRY95-"
+        },
+        {
+            "id":5,
+            "title" : "Adobe Premiere Desde Cero",
+            "image" : "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-07/PremiereDesdeCero.png",
+            "price" : 24,
+            "professor": "Camilo Adobe",
+            "professor_image" : "https://api.ed.team/files/avatars/66813820-2857-4af9-b84f-9196acbb832e.jpg"
+        },
+        {
+            "id":6,
+            "title" : "After Effects Desde Cero",
+            "image" : "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-07/AfterEffectsDesdeCero.png",
+            "price" : 24,
+            "professor": "Camilo Adobe",
+            "professor_image" : "https://api.ed.team/files/avatars/66813820-2857-4af9-b84f-9196acbb832e.jpg"
+        }
+      ]
+}
